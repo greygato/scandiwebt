@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(0,0,24);
+    color: white;
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Consolas';
+}
+div.product{
+    display: inline-block;
+    position: relative;
+    width: 120px;
+    height: 120px;
+    padding: 12px;
+    margin: 20px;
+    border: 1px white solid;
+}
+footer{
+    text-align: center;
+}
+div.header1{
+    text-align: left;
+    display: inline-block;
+    position: relative;
+    width: 49%;
+    margin: 0px;
+    padding: 0px;
+}
+div.header2{
+    text-align: right;
+    display: inline-block;
+    position: relative;
+    width: 50%;
+    margin: 0px;
+    padding: 0px;
+}
+
+label{
+    text-align: justify;
+    padding-right: 32px;
+    text-transform: capitalize;
+}
